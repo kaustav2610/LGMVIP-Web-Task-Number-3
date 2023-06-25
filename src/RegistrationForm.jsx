@@ -87,7 +87,7 @@ const RegistrationForm = () => {
         </div>
         <br/>
 
-        </div>
+        
         <div className='skills'>
           <label>Skills:</label>
           <div className='skills'>
@@ -129,6 +129,7 @@ const RegistrationForm = () => {
             ))
         )}
       </div>
+    </div>
     </div>
 
   );
